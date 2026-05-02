@@ -1,0 +1,12 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.tmp_setup_home/
+.nyalacli/
+sessions/
+logs/
+cache/
+generated_skills/*.py
+!generated_skills/.gitkeep
